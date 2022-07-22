@@ -1,0 +1,359 @@
+                        /* ----------------------------------------------Home----------------------------------------- */
+                        
+                        
+                        .bg-home {
+                            position: relative;
+                            background-color: #343a40;
+                            background: radial-gradient(rgba(0, 0, 0, 0.555), rgba(0, 0, 0, 0.692)), url("../img/Background.jpeg") no-repeat center center;
+                            background-size: cover;
+                            height: 55vw;
+                        }
+                        
+                        .bg-txt {
+                            position: absolute;
+                            top: 0;
+                            bottom: 0;
+                            left: 0;
+                            right: 0;
+                            margin: auto;
+                            margin-top: 11vw;
+                            text-align: center;
+                            width: 60%;
+                            height: 60%;
+                            color: white;
+                        }
+                        
+                        .bg-txt h1 {
+                            font-size: 4vw;
+                            font-weight: bolder;
+                        }
+                        
+                        .bg-txt h3 {
+                            padding-top: 0%;
+                            font-size: 1.7vw;
+                        }
+                        
+                        .bg-txt h5 {
+                            font-size: 1.2vw;
+                            padding-top: 3%;
+                        }
+                        
+                        form {
+                            position:relative;
+                            top: 30vw;
+                        }
+                        
+                        
+                        input[type=email] {
+                            position: relative;
+                            width: 60%;
+                            margin: auto;
+                            border-radius: 2px;
+                            display: inline-block;
+                            padding: 25px;
+                        }
+                        
+                        .btn {
+                            position: relative;
+                            border-radius: 2px;
+                            display: inline-block;
+                            margin: 0;
+                            width: 40%;
+                            border-left: 2px solid black;
+                        }
+                        
+                        
+                        .icon {
+                            position: absolute;
+                            top: 4vh;
+                            left: 8vh;
+                            width: 180px;
+                        }
+                        
+                        .btnsign {
+                            position: absolute;
+                            top: 4vh;
+                            right: 8vh;
+                            width: 120px;
+                            border: none;
+                            padding: 8px;
+                        }
+                        
+                         #english{
+                            background: rgba(17, 16, 16, 0.047);
+                        color: aliceblue;
+                        margin-left:1030px;
+                        margin-top: 25px;
+                            margin-right: 20px;
+                            right: 30vh;
+                            width: 120px;
+                            height: 38px;
+                            border-color: antiquewhite;
+                            
+                        
+                        }
+                        
+                        .bdy-imgg {
+                            width: 100%;
+                        }
+                        
+                        .ibdy {
+                            color: white;
+                            background-color: transparent;
+                            top: 7vw;
+                        }
+                        
+                        .ibdyimg {
+                            background-color: transparent;
+                        }
+                        
+                        .t1 {
+                            font-weight: bold;
+                        }
+                        
+                        @media (max-width: 1200px) {
+                            .bg-home {
+                                height: 46vw;
+                            }
+                            .bg-txt {
+                                margin-top: 10vw;
+                                width: 80%;
+                                height: 60%;
+                            }
+                            .bg-txt {
+                                margin-top: 9vw;
+                                width: 80%;
+                                height: 60%;
+                            }
+                            .bg-txt h1 {
+                                font-size: 6vw;
+                            }
+                            .bg-txt h3 {
+                                margin-top: 0%;
+                                font-size: 2.7vw;
+                            }
+                            .bg-txt h5 {
+                                padding-top: 2%;
+                                font-size: 1.8vw;
+                            }
+                            form {
+                                position: relative;
+                                top: 36vw;
+                            }
+                            .icon {
+                                position: absolute;
+                                top: 2vh;
+                                left: 6vh;
+                                width: 150px;
+                            }
+                            .btnsign {
+                                position: absolute;
+                                top: 2vh;
+                                right: 6vh;
+                                width: 100px;
+                                border: none;
+                                padding: 10px;
+                            }
+                            .ibdy {
+                                color: white;
+                                background-color: transparent;
+                                top: 8vw;
+                            }
+                        }
+                         
+                        @media (max-width: 991px) {
+                            .bg-home {
+                                height: 50vw;
+                            }
+                            .bg-txt {
+                                margin-top: 11vw;
+                                width: 90%;
+                                height: 60%;
+                            }
+                            .bg-txt h1 {
+                                font-size: 7vw;
+                            }
+                            .bg-txt h3 {
+                                margin-top: 0%;
+                                font-size: 3vw;
+                            }
+                            .bg-txt h5 {
+                                padding-top: 2%;
+                                font-size: 2vw;
+                            }
+                            form {
+                                position: relative;
+                                top: 20vw;
+                            }
+                            .icon {
+                                position: absolute;
+                                top: 3vh;
+                                left: 8vh;
+                                width: 150px;
+                            }
+                            .btnsign {
+                                position: absolute;
+                                top: 3vh;
+                                right: 8vh;
+                                width: 100px;
+                                border: none;
+                                padding: 10px;
+                            }
+                            .ibdy {
+                                top: 5vw;
+                            }
+                            .t1 {
+                                font-size: 3vw;
+                            }
+                            .t2 {
+                                font-size: 2vw;
+                            }
+                        } 
+                        
+         @media (max-width: 769px) {
+                            .bg-home {
+                                height: 55vh;
+                            }
+                            .bg-txt {
+                                margin-top: 8vh;
+                                width: 100%;
+                                height: 60%;
+                            }
+                            .bg-txt h1 {
+                                font-size: 9.5vw;
+                            } */
+                            .bg-txt h3 {
+                                font-size: 4vw;
+                            }
+                            .bg-txt h5 {
+                                padding-top: 1.5vw;
+                                font-size: 0.8rem;
+                            }
+                            form {
+                                position: relative;
+                                top: 40vh;
+                            }
+                            .btn {
+                                position: relative;
+                                top: 2.2px;
+                                /* bottom: 0; 
+        right: 0;
+        left: 0; */
+                                margin: auto;
+                                width: 50%;
+                                border-left: none;
+                                padding: 5px;
+                            }
+                            input[type=email] {
+                                position: relative;
+                                width: 100%;
+                                margin: auto;
+                            }
+                            .icon {
+                                position: absolute;
+                                top: 2vh;
+                                left: 3vh;
+                                width: 100px;
+                            }
+                            .btnsign {
+                                position: absolute;
+                                top: 2vh;
+                                right: 3vh;
+                                width: 80px;
+                                border: none;
+                                padding: 2px;
+                                padding-top: 4px;
+                                padding-bottom: 4px;
+                            }
+                            .ibdy {
+                                text-align: center;
+                            }
+                            .t1 {
+                                font-size: 8vw;
+                            }
+                            .t2 {
+                                font-size: 3vw;
+                            }
+                        } 
+                        
+                        hr {
+                            border: 6px solid #1f1f1f;
+                            margin-top: 10px;
+                            padding: 0;
+                            border-width: 5px;
+                        }
+                        
+                        .hr1 {
+                            border: 6px solid #1f1f1f;
+                            margin: 0;
+                            padding: 0;
+                            border-width: 5px;
+                        }
+                        /* --------------------------------------------------LOGIN--------------------------------------------------------------------------- */
+                        
+                        .bg-login {
+                            position: relative;
+                            background-color: #5b270c;
+                            background: radial-gradient(rgba(0, 0, 0, 0.52), rgba(0, 0, 0, 0.212)), url("../img/home-bg.jpg") no-repeat center center;
+                            background-size: cover;
+                            height: 110vh;
+                        }
+                        
+                        .bg-box {
+                            margin: auto;
+                            position: absolute;
+                            top: 0;
+                            bottom: 0;
+                            left: 0;
+                            right: 0;
+                            background-color: rgba(0, 0, 0, 0.698);
+                            border-color: black;
+                            color: rgba(255, 255, 255, 0.514);
+                            /* box-shadow: 1px 1px 19px 1px #000000; */
+                            width: 450px;
+                            height: 600px;
+                            border-radius: 10px;
+                        }
+                        
+                        .logform {
+                            position: absolute;
+                            top: 2%;
+                            z-index: 1;
+                        }
+                        
+                        .logform label {
+                            color: white;
+                            font-size: 200px;
+                        }
+                        .xyz{
+                            color:aliceblue;
+                            text-align: center;
+                            
+                        }
+                        .collapsible {
+                            background-color: #777;
+                            color: white;
+                            cursor: pointer;
+                            padding: 18px;
+                            width: 60%;
+                            margin-top: 30px;
+                            margin-bottom: 10px;
+                    
+                            border: none;
+                            text-align: left;
+                            outline: none;
+                            font-size: 15px;
+                          }
+                          
+                          .active, .collapsible:hover {
+                            background-color: #555;
+                          }
+                          
+                        #last{
+                        width:350px;
+                        margin-left:250px;
+                        margin-bottom: -300px;
+                        margin-top: 0%;
+                        
+                        }
+                        
