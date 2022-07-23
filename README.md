@@ -16,29 +16,29 @@ THIS IS NETFLIX CLONE
 ## FIRST SECTION 
 
     
-   ![Logo](./first.png)
+   ![Logo](screenshots/first.png)
    
 ## SECOND SECTION
  
     
-   ![Logo](./second.png)
+   ![Logo](screenshots/second.png)
    
 ## THIRD SECTION
      
     
-   ![Logo](./third.png)
+   ![Logo](screenshots/third.png)
    
 ## FOURTH SECTION 
       
-   ![Logo](./fourth.png) 
+   ![Logo](screenshots/fourth.png) 
 
 
 ## Fifth section
       
-   ![Logo](./fifth.png) 
+   ![Logo](screenshots/fifth.png) 
 
 ## SIXTH SECTION 
-   ![LOGO](./sixth.png)
+   ![LOGO](screenshots/sixth.png)
 ## Deployment
 
 FOR DIPLOYMENT I USED THE APP NAME AS "NETLIFY"
