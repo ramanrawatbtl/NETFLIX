@@ -45,7 +45,7 @@ FOR DIPLOYMENT I USED THE APP NAME AS "NETLIFY"
 
 
 ```bash
-  HOST LINK :https://ramanrawatportfolio.netlify.app
+  HOST LINK :https://netflixraman.netlify.app/
 ```
 
 
